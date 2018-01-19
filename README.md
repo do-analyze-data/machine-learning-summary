@@ -4,3 +4,5 @@ Machine Learning Study Sumnmary 머신러닝 기본 이해를 위한 스터디
   - 매주 1장씩 읽고 각자 정리한 노트를 공유
   - 목요일 자정까지 각자 branch에 commit  
   - 금요일 19:00 ~ 함께 노트 정리 master branch 에 반영
+- 같이 논의해보거나 이해안가는 내용 issue에 적어 공유
+  - slack #공지 notify됨 (github 연동)
